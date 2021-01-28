@@ -4,25 +4,27 @@
     "description": "Teste os seus conhecimentos sobre uma das maiores séries já produzida",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
+        "image": "https://farofageek.com.br/wp-content/uploads/2018/04/filhos-de-ragnar-782x445.jpg",
+        "title": "Ragnar teve 5 filhos, qual os seus nomes?",
+        "description": "",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Bjorn, Sigurd, Haraldson, Horik e Hvitserk",
+          "Bjorn, Rollo, Hvitserk, Sigurd e Ivar",
+          "Bjorn, Ubbe, Hvitserk, Sigurd e Ivar",
+          "Homem de Ferro, Ubbe, Olho de Cobra, Noiado, Sem ossos"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://miro.medium.com/max/870/1*DzqppHfQ8rTskAwexmUlHw.gif",
+        "title": "Qual o método que Ragnar utilizou para matar Jarl Borg?",
+        "description": " ",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Leão Sangrento",
+           "Pantera do Inferno",
+           "Cobra Venenosa",
+           "Águia de Sangue"
         ]
       }
     ],

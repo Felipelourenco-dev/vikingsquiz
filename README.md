@@ -1,4 +1,36 @@
-# Example app with styled-components
+# Vikings Quiz
+
+<h3>
+Projeto realizado na semana de imersão React Next.js do grupo Alura. <br>
+Foi apresentado toda a parte de styled-components <br>
+  Confira abaixo todo o procedimento para criação de uma aplicação em React Next.js
+
+</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  ==========================================================================================================
 
 This example features how you use a different styling solution than [styled-jsx](https://github.com/zeit/styled-jsx) that also supports universal styles. That means we can serve the required styles for the first render within the HTML and then load the rest in the client. In this case we are using [styled-components](https://github.com/styled-components/styled-components).
 
